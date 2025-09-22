@@ -34,33 +34,6 @@ accelerators when necessary (C++/Fortran).
 
 ---
 
-## 🧰 Tech Stack (with icons)
-
-<p>
-  <!-- Core scientific Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38" alt="Python" title="Python"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="38" height="38" alt="NumPy" title="NumPy"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scipy.svg" width="38" height="38" alt="SciPy" title="SciPy"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="38" height="38" alt="pandas" title="pandas"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" width="38" height="38" alt="Matplotlib" title="Matplotlib"/>
-
-  <!-- Compiled / perf -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="38" height="38" alt="C++" title="C++"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fortran.svg" width="38" height="38" alt="Fortran" title="Fortran"/>
-
-  <!-- Analysis & plotting suites -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matlab.svg" width="38" height="38" alt="MATLAB" title="MATLAB"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/origin.svg" width="38" height="38" alt="OriginLab" title="OriginLab"/>
-
-  <!-- Writing & collaboration -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="38" height="38" alt="LaTeX" title="LaTeX"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" height="38" alt="GitHub" title="GitHub"/>
-</p>
-
-*If any icon fails to load on your network, GitHub will still render alt text and tooltips.*
-
----
 
 ## 👨‍🏫 Teaching
 **Physics & Mathematics Tutor — Private/National Exam Prep (Greece)**  
@@ -97,3 +70,4 @@ If our interests align, feel free to reach out:
 <a href="https://www.linkedin.com/in/nikos-graikousis-91039324b/">
   <img src="https://img.shields.io/badge/LinkedIn-Start%20a%20Conversation-informational?logo=linkedin&logoColor=white&labelColor=0A66C2&color=555" alt="LinkedIn badge">
 </a>
+
