@@ -34,7 +34,6 @@ accelerators when necessary (C++/Fortran).
 
 ---
 
-
 ## 👨‍🏫 Teaching
 **Physics & Mathematics Tutor — Private/National Exam Prep (Greece)**  
 - Mechanics, electromagnetism, and calculus for university entrance preparation  
@@ -48,8 +47,6 @@ accelerators when necessary (C++/Fortran).
   *Coursework:* Cosmology, General Relativity, Statistical/Data Analysis, Computational Physics
 - **B.Sc., Physics** — *University of Patras (2015–2021)*
 
-## 🪖 Service
-**Hellenic Army** — Completed compulsory service *(Oct 2021 – Jul 2022)*
 
 ## 🌐 Languages
 **Greek** (native), **English** (fluent)
@@ -70,4 +67,5 @@ If our interests align, feel free to reach out:
 <a href="https://www.linkedin.com/in/nikos-graikousis-91039324b/">
   <img src="https://img.shields.io/badge/LinkedIn-Start%20a%20Conversation-informational?logo=linkedin&logoColor=white&labelColor=0A66C2&color=555" alt="LinkedIn badge">
 </a>
+
 
